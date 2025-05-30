@@ -3,8 +3,8 @@ from math import log, exp
 from operator import mul
 from collections import Counter
 import os
-import pylab
-import cPickle
+import matplotlib.pylab as pylab
+import pickle as cPickle
 
 
 class MyDict(dict):
@@ -62,7 +62,9 @@ def train():
     
     # Load counts if they already exist.
     if not retrain and os.path.isfile(CDATA_FILE):
-        pos, neg, totals = cPickle.load(open(CDATA_FILE))
+        #pos, neg, totals = cPickle.load(open(CDATA_FILE))
+        with open(CDATA_FILE, 'rb') as f:
+            pos, neg, totals = cPickle.load(f)
         return
 
     limit = 12500
@@ -81,7 +83,9 @@ def train():
     totals[1] = sum(neg.values())
     
     countdata = (pos, neg, totals)
-    cPickle.dump(countdata, open(CDATA_FILE, 'w'))
+    #cPickle.dump(countdata, open(CDATA_FILE, 'w'))
+    with open(CDATA_FILE, 'wb') as f:
+        cPickle.dump(countdata, f)
 
 def classify(text):
     words = set(word for word in negate_sequence(text) if word in features)
@@ -105,14 +109,14 @@ def classify2(text):
 def classify_demo(text):
     words = set(word for word in negate_sequence(text) if word in pos or word in neg)
     if (len(words) == 0): 
-        print "No features to compare on"
+        print ("No features to compare on")
         return True
 
     pprob, nprob = 0, 0
     for word in words:
         pp = log((pos[word] + 1) / (2 * totals[0]))
         np = log((neg[word] + 1) / (2 * totals[1]))
-        print "%15s %.9f %.9f" % (word, exp(pp), exp(np))
+        print ("%15s %.9f %.9f" % (word, exp(pp), exp(np)))
         pprob += pp
         nprob += np
 
@@ -150,13 +154,14 @@ def prune_features():
     Remove features that appear only once.
     """
     global pos, neg
-    for k in pos.keys():
+    for k in list(pos.keys()):              # <- 用 list() 拷贝一份键列表
         if pos[k] <= 1 and neg[k] <= 1:
             del pos[k]
 
-    for k in neg.keys():
+    for k in list(neg.keys()):              # <- 同上
         if neg[k] <= 1 and pos[k] <= 1:
             del neg[k]
+
 
 def feature_selection_trials():
     """
@@ -169,8 +174,9 @@ def feature_selection_trials():
         pos, neg, totals = cPickle.load(open(FDATA_FILE))
         return
 
-    words = list(set(pos.keys() + neg.keys()))
-    print "Total no of features:", len(words)
+    words = list(set(pos.keys()) | set(neg.keys()))
+
+    print ("Total no of features:", len(words))
     words.sort(key=lambda w: -MI(w))
     num_features, accuracy = [], []
     bestk = 0
@@ -181,7 +187,7 @@ def feature_selection_trials():
     best_accuracy = 0.0
     for w in words[:start]:
         features.add(w)
-    for k in xrange(start, 40000, step):
+    for k in range(start, 40000, step):
         for w in words[k:k+step]:
             features.add(w)
         correct = 0
@@ -199,11 +205,12 @@ def feature_selection_trials():
         accuracy.append(correct / size)
         if (correct / size) > best_accuracy:
             bestk = k
-        print k+step, correct / size
+        print (k+step, correct / size)
 
     features = set(words[:bestk])
-    cPickle.dump(get_relevant_features(), open(FDATA_FILE, 'w'))
-
+    #cPickle.dump(get_relevant_features(), open(FDATA_FILE, 'w'))
+    with open(FDATA_FILE, 'wb') as f:
+        cPickle.dump(get_relevant_features(), f)
     pylab.plot(num_features, accuracy)
     pylab.show()
 
@@ -218,7 +225,7 @@ def test_pang_lee():
     for fname in os.listdir("txt_sentoken/neg"):
         correct += int(classify2(open("txt_sentoken/neg/" + fname).read()) == False)
         total += 1
-    print "accuracy: %f" % (correct / total)
+    print ("accuracy: %f" % (correct / total))
 
 if __name__ == '__main__':
     train()

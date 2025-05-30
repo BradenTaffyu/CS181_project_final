@@ -2,7 +2,7 @@ from pretrained import *
 from collections import Counter
 import os
 
-tmap = dict(zip(positive.keys() + negative.keys(), xrange(len(positive) + len(negative))))
+tmap = dict(zip(positive.keys() + negative.keys(), range(len(positive) + len(negative))))
 
 POSITIVE_PATH = "./aclImdb/train/pos/"
 NEGATIVE_PATH = "./aclImdb/train/neg/"

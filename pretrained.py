@@ -9,7 +9,7 @@ import re
 import os
 import random
 import pickle
-import pylab
+import matplotlib.pylab as pylab
 
 
 handle = open("trained", "rb")
@@ -62,10 +62,10 @@ def classify_demo(text):
         ndelta = log(get_negative_prob(word))
         pscore += pdelta
         nscore += ndelta
-        print "%25s, pos=(%10lf, %10d) \t\t neg=(%10lf, %10d)" % (word, pdelta, positive[word], ndelta, negative[word]) 
+        print ("%25s, pos=(%10lf, %10d) \t\t neg=(%10lf, %10d)" % (word, pdelta, positive[word], ndelta, negative[word])) 
 
-    print "\nPositive" if pscore > nscore else "Negative"
-    print "Confidence: %lf" % exp(abs(pscore - nscore))
+    print ("\nPositive" if pscore > nscore else "Negative")
+    print ("Confidence: %lf" % exp(abs(pscore - nscore)))
     return pscore > nscore, pscore, nscore
 
 def test():
@@ -75,7 +75,7 @@ def test():
     "This book was quite good.",
     "I think this product is horrible."
     ]
-    print map(classify, strings)
+    print (map(classify, strings))
 
 def mutual_info(word):
     """
@@ -106,9 +106,9 @@ def feature_selection_experiment(test_set):
     sorted_keys = sorted(keys, cmp=lambda x, y: mutual_info(x) > mutual_info(y)) # Sort descending by mutual info
     features = set()
     num_features, accuracy = [], []
-    print sorted_keys[-100:]
+    print (sorted_keys[-100:])
 
-    for k in xrange(0, 50000, 1000):
+    for k in range(0, 50000, 1000):
         features |= set(sorted_keys[k:k+1000])
         preprocessor = partial(reduce_features, features)
         correct = 0
@@ -116,8 +116,8 @@ def feature_selection_experiment(test_set):
             correct += classify(text) == label
         num_features.append(k+1000)
         accuracy.append(correct / len(test_set))
-    print negate_sequence("Is this a good idea")
-    print reduce_features(features, "Is this a good idea")
+    print (negate_sequence("Is this a good idea"))
+    print (reduce_features(features, "Is this a good idea"))
 
     pylab.plot(num_features, accuracy)
     pylab.show()
@@ -131,9 +131,9 @@ def get_paths():
     return posfiles + negfiles
 
 if __name__ == '__main__':
-    print mutual_info('good')
-    print mutual_info('bad')
-    print mutual_info('incredible')
-    print mutual_info('jaskdhkasjdhkjincredible')
+    print (mutual_info('good'))
+    print (mutual_info('bad'))
+    print (mutual_info('incredible'))
+    print (mutual_info('jaskdhkasjdhkjincredible'))
     feature_selection_experiment(get_paths())
 
