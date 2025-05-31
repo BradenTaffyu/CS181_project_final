@@ -9,7 +9,7 @@ from clean_data import clean_data
 
 def load_data():
     """加载embedding和文件映射"""
-    embeddings = np.load('unsup_embeddings.npy')
+    embeddings = np.load('K-means\\unsup_embeddings.npy')
     
     with open('file_mapping.json', 'r', encoding='utf-8') as f:
         file_mapping = json.load(f)
@@ -38,16 +38,79 @@ def kmeans_clustering(embeddings, k):
     cluster_labels = kmeans.fit_predict(embeddings)
     return cluster_labels, kmeans
 
+import sys
+from pathlib import Path
+
+# 添加项目根目录到系统路径
+current_dir = Path(__file__).parent
+sys.path.append(str(current_dir.parent))  # 添加当前目录的上级目录到路径
+
+
 
 def analyze_clusters(embeddings, file_mapping, cluster_labels, k):
+
+    # 在 analyze_clusters 开头添加测试
+    test_texts = [
+    "This movie is absolutely wonderful!",  # 积极样本
+    "Terrible acting and boring plot",      # 消极样本
+    ]
+
+    print("\n情感模型验证:")
+    for text in test_texts:
+        result = info.classify(clean_data(text))
+        print(f"文本: {text[:30]}... → 预测结果: {'积极' if result else '消极'}")
+
     """分析聚类结果"""
     print(f"\n=== 聚类分析 (k={k}) ===")
-    
+
+    cluster_stats = defaultdict(lambda: {
+        'sentiment_scores': [],
+        'sentiment_counts': {'positive': 0, 'negative': 0}
+    })
+
     for cluster_id in range(k):
         # 找到属于当前簇的样本索引
         indices = np.where(cluster_labels == cluster_id)[0]
         print(f"\n--- 簇 {cluster_id} ({len(indices)} 个样本) ---")
         
+        for idx in indices:
+            file_path = file_mapping[idx]['file_path']
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    text = f.read()
+                
+                cleaned_text = clean_data(text)
+                # 情感分析（需要根据实际模型调整阈值）
+                is_positive = info.classify(cleaned_text)
+                sentiment_score = 1 if is_positive else -1  # 二元分类得分
+                
+                # 更新统计
+                cluster_stats[cluster_id]['sentiment_scores'].append(sentiment_score)
+                cluster_stats[cluster_id]['sentiment_counts']['positive' if is_positive else 'negative'] += 1
+            except Exception as e:
+                print(f"文件读取失败: {file_path} - {str(e)}")
+                continue
+    for cluster_id in range(k):
+        stats = cluster_stats[cluster_id]
+        total = len(stats['sentiment_scores'])
+
+        if total == 0:  # 添加空值保护
+            print(f"\n--- 簇 {cluster_id} 无有效样本 ---")
+            continue
+        
+        # 计算平均情感得分
+        avg_score = np.mean(stats['sentiment_scores']) 
+        
+        # 计算情感分布比例
+        pos_ratio = stats['sentiment_counts']['positive'] / total * 100
+        neg_ratio = stats['sentiment_counts']['negative'] / total * 100
+        
+        print(f"\n--- 簇 {cluster_id} 情感分析 ---")
+        print(f"平均情感得分: {avg_score:.2f} (范围: [-1.0, 1.0])")
+        print(f"情感分布:")
+        print(f"  积极: {pos_ratio:.1f}%")
+        print(f"  消极: {neg_ratio:.1f}%")
+
         # 显示前几个样本的文件名和内容预览
         print("样本文件:")
         for i, idx in enumerate(indices[:10]):
@@ -98,8 +161,17 @@ if __name__ == '__main__':
     embeddings, file_mapping = load_data()
     
     # 设置聚类数量
-    k = 2  # 你可以修改这个值
-    
+    k = 3  # 你可以修改这个值
+    from collections import defaultdict
+    import pickle
+    import info
+    from info import classify, MyDict
+
+    with open("reduceddata.pickle", "rb") as f:
+        info.pos, info.neg, info.totals = pickle.load(f)
+
+    info.features = set(info.pos.keys())|set(info.neg.keys())  
+
     # 执行K-means聚类
     cluster_labels, kmeans = kmeans_clustering(embeddings, k)
     print(f"聚类完成，k={k}")

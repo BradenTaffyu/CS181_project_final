@@ -58,7 +58,7 @@ def negate_sequence(text):
 
 def train():
     global pos, neg, totals
-    retrain = False
+    retrain = True
     
     # Load counts if they already exist.
     if not retrain and os.path.isfile(CDATA_FILE):
@@ -68,16 +68,30 @@ def train():
         return
 
     limit = 12500
-    for file in os.listdir("./aclImdb/train/pos")[:limit]:
-        for word in set(negate_sequence(open("./aclImdb/train/pos/" + file).read())):
+    pos_files = os.listdir("./aclImdb/train/pos")[:limit]
+    neg_files = os.listdir("./aclImdb/train/neg")[:limit]
+
+    print(f"正在训练情感模型，正样本数: {len(pos_files)}，负样本数: {len(neg_files)}")
+
+    for file in pos_files:
+        with open(os.path.join("./aclImdb/train/pos", file), 'r', encoding='utf-8') as f:
+            content = f.read()
+        for word in set(negate_sequence((content))): 
             pos[word] += 1
             neg['not_' + word] += 1
-    for file in os.listdir("./aclImdb/train/neg")[:limit]:
-        for word in set(negate_sequence(open("./aclImdb/train/neg/" + file).read())):
+
+    for file in neg_files:
+        with open(os.path.join("./aclImdb/train/neg", file), 'r', encoding='utf-8') as f:
+            content = f.read()
+        for word in set(negate_sequence(content)):
             neg[word] += 1
             pos['not_' + word] += 1
     
+    print(f"正样本特征数: {len(pos)}, 负样本特征数: {len(neg)}")
     prune_features()
+    # print 10 positive and negative features
+    print("Top 10 positive features:", sorted(pos.items(), key=lambda x: -x[1])[:10])
+    print("Top 10 negative features:", sorted(neg.items(), key=lambda x: -x[1])[:10])
 
     totals[0] = sum(pos.values())
     totals[1] = sum(neg.values())
@@ -99,7 +113,7 @@ def classify2(text):
     """
     For classification from pretrained data
     """
-    words = set(word for word in negate_sequence(text) if word in pos or word in neg)
+    words = set(word for word in negate_sequence(text) if word in neg or word in pos)
     if (len(words) == 0): return True
     # Probability that word occurs in pos documents
     pos_prob = sum(log((pos[word] + 1) / (2 * totals[0])) for word in words)
@@ -154,14 +168,17 @@ def prune_features():
     Remove features that appear only once.
     """
     global pos, neg
+
+    prune_threshold = 3
     for k in list(pos.keys()):              # <- 用 list() 拷贝一份键列表
-        if pos[k] <= 1 and neg[k] <= 1:
+        if pos[k] <= prune_threshold and neg[k] <= prune_threshold:
             del pos[k]
 
     for k in list(neg.keys()):              # <- 同上
-        if neg[k] <= 1 and pos[k] <= 1:
+        if neg[k] <= prune_threshold and pos[k] <= prune_threshold:
             del neg[k]
 
+    print ("Pruned features. Remaining features:", len(pos), len(neg))
 
 def feature_selection_trials():
     """
@@ -181,7 +198,7 @@ def feature_selection_trials():
     num_features, accuracy = [], []
     bestk = 0
     limit = 500
-    path = "./aclImdb/test/"
+    path = "./aclImdb/train/"
     step = 500
     start = 20000
     best_accuracy = 0.0
@@ -194,11 +211,11 @@ def feature_selection_trials():
         size = 0
 
         for file in os.listdir(path + "pos")[:limit]:
-            correct += classify(open(path + "pos/" + file).read()) == True
+            correct += classify(open(path + "pos/" + file,encoding='utf-8').read()) == True
             size += 1
 
         for file in os.listdir(path + "neg")[:limit]:
-            correct += classify(open(path + "neg/" + file).read()) == False
+            correct += classify(open(path + "neg/" + file, encoding='utf-8').read()) == False
             size += 1
 
         num_features.append(k+step)

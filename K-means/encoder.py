@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 import json
 
 
-unsup_dir = Path('../aclImdb') / 'train' / 'unsup'
+unsup_dir = Path('aclImdb') / 'train' / 'unsup'
 if not unsup_dir.exists():
     raise FileNotFoundError(f"Directory not found: {unsup_dir}")
 

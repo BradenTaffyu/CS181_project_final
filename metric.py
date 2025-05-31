@@ -18,7 +18,7 @@ def get_paths():
 def fscore(classifier, file_paths):
     tpos, fpos, fneg, tneg = 0, 0, 0, 0
     for path, label in file_paths:
-        result = classifier(open(path).read())
+        result = classifier(open(path,encoding='utf-8').read())
         if label and result:
             tpos += 1
         elif label and (not result):
