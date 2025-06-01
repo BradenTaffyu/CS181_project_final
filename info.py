@@ -67,9 +67,9 @@ def train():
             pos, neg, totals = cPickle.load(f)
         return
 
-    limit = 12500
-    pos_files = os.listdir("./aclImdb/train/pos")[:limit]
-    neg_files = os.listdir("./aclImdb/train/neg")[:limit]
+    #limit = 12500
+    pos_files = os.listdir("./aclImdb/train/pos")#[:limit]
+    neg_files = os.listdir("./aclImdb/train/neg")#[:limit]
 
     print(f"正在训练情感模型，正样本数: {len(pos_files)}，负样本数: {len(neg_files)}")
 

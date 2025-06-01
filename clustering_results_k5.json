@@ -1,0 +1,6002 @@
+[
+  {
+    "index": 0,
+    "filename": "0_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\0_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 1,
+    "filename": "10000_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10000_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 2,
+    "filename": "10001_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10001_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 3,
+    "filename": "10002_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10002_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 4,
+    "filename": "10003_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10003_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 5,
+    "filename": "10004_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10004_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 6,
+    "filename": "10005_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10005_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 7,
+    "filename": "10006_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10006_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 8,
+    "filename": "10007_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10007_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 9,
+    "filename": "10008_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10008_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 10,
+    "filename": "10009_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10009_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 11,
+    "filename": "1000_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1000_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 12,
+    "filename": "10010_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10010_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 13,
+    "filename": "10011_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10011_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 14,
+    "filename": "10012_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10012_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 15,
+    "filename": "10013_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10013_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 16,
+    "filename": "10014_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10014_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 17,
+    "filename": "10015_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10015_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 18,
+    "filename": "10016_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10016_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 19,
+    "filename": "10017_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10017_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 20,
+    "filename": "10018_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10018_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 21,
+    "filename": "10019_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10019_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 22,
+    "filename": "1001_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1001_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 23,
+    "filename": "10020_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10020_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 24,
+    "filename": "10021_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10021_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 25,
+    "filename": "10022_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10022_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 26,
+    "filename": "10023_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10023_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 27,
+    "filename": "10024_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10024_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 28,
+    "filename": "10025_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10025_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 29,
+    "filename": "10026_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10026_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 30,
+    "filename": "10027_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10027_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 31,
+    "filename": "10028_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10028_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 32,
+    "filename": "10029_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10029_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 33,
+    "filename": "1002_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1002_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 34,
+    "filename": "10030_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10030_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 35,
+    "filename": "10031_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10031_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 36,
+    "filename": "10032_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10032_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 37,
+    "filename": "10033_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10033_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 38,
+    "filename": "10034_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10034_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 39,
+    "filename": "10035_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10035_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 40,
+    "filename": "10036_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10036_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 41,
+    "filename": "10037_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10037_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 42,
+    "filename": "10038_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10038_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 43,
+    "filename": "10039_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10039_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 44,
+    "filename": "1003_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1003_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 45,
+    "filename": "10040_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10040_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 46,
+    "filename": "10041_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10041_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 47,
+    "filename": "10042_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10042_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 48,
+    "filename": "10043_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10043_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 49,
+    "filename": "10044_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10044_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 50,
+    "filename": "10045_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10045_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 51,
+    "filename": "10046_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10046_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 52,
+    "filename": "10047_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10047_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 53,
+    "filename": "10048_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10048_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 54,
+    "filename": "10049_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10049_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 55,
+    "filename": "1004_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1004_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 56,
+    "filename": "10050_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10050_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 57,
+    "filename": "10051_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10051_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 58,
+    "filename": "10052_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10052_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 59,
+    "filename": "10053_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10053_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 60,
+    "filename": "10054_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10054_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 61,
+    "filename": "10055_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10055_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 62,
+    "filename": "10056_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10056_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 63,
+    "filename": "10057_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10057_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 64,
+    "filename": "10058_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10058_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 65,
+    "filename": "10059_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10059_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 66,
+    "filename": "1005_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1005_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 67,
+    "filename": "10060_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10060_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 68,
+    "filename": "10061_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10061_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 69,
+    "filename": "10062_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10062_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 70,
+    "filename": "10063_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10063_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 71,
+    "filename": "10064_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10064_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 72,
+    "filename": "10065_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10065_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 73,
+    "filename": "10066_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10066_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 74,
+    "filename": "10067_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10067_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 75,
+    "filename": "10068_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10068_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 76,
+    "filename": "10069_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10069_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 77,
+    "filename": "1006_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1006_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 78,
+    "filename": "10070_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10070_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 79,
+    "filename": "10071_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10071_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 80,
+    "filename": "10072_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10072_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 81,
+    "filename": "10073_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10073_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 82,
+    "filename": "10074_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10074_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 83,
+    "filename": "10075_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10075_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 84,
+    "filename": "10076_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10076_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 85,
+    "filename": "10077_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10077_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 86,
+    "filename": "10078_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10078_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 87,
+    "filename": "10079_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10079_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 88,
+    "filename": "1007_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1007_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 89,
+    "filename": "10080_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10080_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 90,
+    "filename": "10081_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10081_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 91,
+    "filename": "10082_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10082_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 92,
+    "filename": "10083_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10083_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 93,
+    "filename": "10084_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10084_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 94,
+    "filename": "10085_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10085_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 95,
+    "filename": "10086_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10086_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 96,
+    "filename": "10087_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10087_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 97,
+    "filename": "10088_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10088_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 98,
+    "filename": "10089_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10089_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 99,
+    "filename": "1008_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1008_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 100,
+    "filename": "10090_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10090_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 101,
+    "filename": "10091_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10091_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 102,
+    "filename": "10092_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10092_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 103,
+    "filename": "10093_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10093_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 104,
+    "filename": "10094_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10094_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 105,
+    "filename": "10095_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10095_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 106,
+    "filename": "10096_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10096_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 107,
+    "filename": "10097_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10097_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 108,
+    "filename": "10098_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10098_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 109,
+    "filename": "10099_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10099_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 110,
+    "filename": "1009_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1009_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 111,
+    "filename": "100_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\100_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 112,
+    "filename": "10100_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10100_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 113,
+    "filename": "10101_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10101_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 114,
+    "filename": "10102_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10102_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 115,
+    "filename": "10103_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10103_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 116,
+    "filename": "10104_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10104_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 117,
+    "filename": "10105_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10105_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 118,
+    "filename": "10106_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10106_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 119,
+    "filename": "10107_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10107_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 120,
+    "filename": "10108_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10108_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 121,
+    "filename": "10109_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10109_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 122,
+    "filename": "1010_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1010_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 123,
+    "filename": "10110_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10110_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 124,
+    "filename": "10111_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10111_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 125,
+    "filename": "10112_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10112_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 126,
+    "filename": "10113_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10113_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 127,
+    "filename": "10114_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10114_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 128,
+    "filename": "10115_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10115_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 129,
+    "filename": "10116_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10116_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 130,
+    "filename": "10117_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10117_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 131,
+    "filename": "10118_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10118_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 132,
+    "filename": "10119_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10119_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 133,
+    "filename": "1011_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1011_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 134,
+    "filename": "10120_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10120_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 135,
+    "filename": "10121_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10121_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 136,
+    "filename": "10122_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10122_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 137,
+    "filename": "10123_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10123_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 138,
+    "filename": "10124_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10124_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 139,
+    "filename": "10125_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10125_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 140,
+    "filename": "10126_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10126_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 141,
+    "filename": "10127_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10127_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 142,
+    "filename": "10128_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10128_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 143,
+    "filename": "10129_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10129_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 144,
+    "filename": "1012_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1012_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 145,
+    "filename": "10130_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10130_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 146,
+    "filename": "10131_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10131_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 147,
+    "filename": "10132_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10132_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 148,
+    "filename": "10133_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10133_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 149,
+    "filename": "10134_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10134_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 150,
+    "filename": "10135_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10135_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 151,
+    "filename": "10136_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10136_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 152,
+    "filename": "10137_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10137_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 153,
+    "filename": "10138_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10138_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 154,
+    "filename": "10139_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10139_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 155,
+    "filename": "1013_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1013_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 156,
+    "filename": "10140_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10140_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 157,
+    "filename": "10141_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10141_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 158,
+    "filename": "10142_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10142_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 159,
+    "filename": "10143_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10143_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 160,
+    "filename": "10144_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10144_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 161,
+    "filename": "10145_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10145_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 162,
+    "filename": "10146_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10146_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 163,
+    "filename": "10147_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10147_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 164,
+    "filename": "10148_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10148_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 165,
+    "filename": "10149_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10149_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 166,
+    "filename": "1014_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1014_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 167,
+    "filename": "10150_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10150_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 168,
+    "filename": "10151_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10151_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 169,
+    "filename": "10152_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10152_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 170,
+    "filename": "10153_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10153_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 171,
+    "filename": "10154_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10154_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 172,
+    "filename": "10155_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10155_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 173,
+    "filename": "10156_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10156_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 174,
+    "filename": "10157_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10157_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 175,
+    "filename": "10158_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10158_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 176,
+    "filename": "10159_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10159_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 177,
+    "filename": "1015_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1015_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 178,
+    "filename": "10160_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10160_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 179,
+    "filename": "10161_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10161_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 180,
+    "filename": "10162_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10162_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 181,
+    "filename": "10163_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10163_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 182,
+    "filename": "10164_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10164_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 183,
+    "filename": "10165_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10165_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 184,
+    "filename": "10166_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10166_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 185,
+    "filename": "10167_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10167_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 186,
+    "filename": "10168_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10168_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 187,
+    "filename": "10169_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10169_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 188,
+    "filename": "1016_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1016_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 189,
+    "filename": "10170_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10170_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 190,
+    "filename": "10171_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10171_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 191,
+    "filename": "10172_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10172_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 192,
+    "filename": "10173_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10173_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 193,
+    "filename": "10174_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10174_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 194,
+    "filename": "10175_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10175_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 195,
+    "filename": "10176_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10176_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 196,
+    "filename": "10177_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10177_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 197,
+    "filename": "10178_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10178_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 198,
+    "filename": "10179_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10179_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 199,
+    "filename": "1017_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1017_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 200,
+    "filename": "10180_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10180_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 201,
+    "filename": "10181_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10181_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 202,
+    "filename": "10182_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10182_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 203,
+    "filename": "10183_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10183_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 204,
+    "filename": "10184_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10184_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 205,
+    "filename": "10185_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10185_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 206,
+    "filename": "10186_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10186_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 207,
+    "filename": "10187_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10187_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 208,
+    "filename": "10188_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10188_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 209,
+    "filename": "10189_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10189_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 210,
+    "filename": "1018_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1018_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 211,
+    "filename": "10190_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10190_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 212,
+    "filename": "10191_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10191_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 213,
+    "filename": "10192_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10192_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 214,
+    "filename": "10193_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10193_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 215,
+    "filename": "10194_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10194_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 216,
+    "filename": "10195_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10195_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 217,
+    "filename": "10196_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10196_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 218,
+    "filename": "10197_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10197_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 219,
+    "filename": "10198_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10198_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 220,
+    "filename": "10199_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10199_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 221,
+    "filename": "1019_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1019_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 222,
+    "filename": "101_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\101_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 223,
+    "filename": "10200_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10200_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 224,
+    "filename": "10201_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10201_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 225,
+    "filename": "10202_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10202_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 226,
+    "filename": "10203_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10203_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 227,
+    "filename": "10204_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10204_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 228,
+    "filename": "10205_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10205_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 229,
+    "filename": "10206_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10206_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 230,
+    "filename": "10207_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10207_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 231,
+    "filename": "10208_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10208_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 232,
+    "filename": "10209_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10209_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 233,
+    "filename": "1020_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1020_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 234,
+    "filename": "10210_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10210_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 235,
+    "filename": "10211_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10211_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 236,
+    "filename": "10212_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10212_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 237,
+    "filename": "10213_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10213_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 238,
+    "filename": "10214_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10214_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 239,
+    "filename": "10215_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10215_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 240,
+    "filename": "10216_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10216_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 241,
+    "filename": "10217_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10217_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 242,
+    "filename": "10218_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10218_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 243,
+    "filename": "10219_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10219_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 244,
+    "filename": "1021_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1021_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 245,
+    "filename": "10220_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10220_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 246,
+    "filename": "10221_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10221_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 247,
+    "filename": "10222_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10222_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 248,
+    "filename": "10223_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10223_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 249,
+    "filename": "10224_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10224_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 250,
+    "filename": "10225_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10225_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 251,
+    "filename": "10226_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10226_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 252,
+    "filename": "10227_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10227_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 253,
+    "filename": "10228_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10228_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 254,
+    "filename": "10229_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10229_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 255,
+    "filename": "1022_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1022_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 256,
+    "filename": "10230_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10230_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 257,
+    "filename": "10231_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10231_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 258,
+    "filename": "10232_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10232_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 259,
+    "filename": "10233_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10233_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 260,
+    "filename": "10234_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10234_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 261,
+    "filename": "10235_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10235_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 262,
+    "filename": "10236_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10236_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 263,
+    "filename": "10237_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10237_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 264,
+    "filename": "10238_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10238_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 265,
+    "filename": "10239_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10239_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 266,
+    "filename": "1023_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1023_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 267,
+    "filename": "10240_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10240_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 268,
+    "filename": "10241_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10241_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 269,
+    "filename": "10242_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10242_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 270,
+    "filename": "10243_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10243_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 271,
+    "filename": "10244_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10244_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 272,
+    "filename": "10245_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10245_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 273,
+    "filename": "10246_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10246_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 274,
+    "filename": "10247_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10247_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 275,
+    "filename": "10248_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10248_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 276,
+    "filename": "10249_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10249_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 277,
+    "filename": "1024_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1024_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 278,
+    "filename": "10250_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10250_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 279,
+    "filename": "10251_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10251_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 280,
+    "filename": "10252_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10252_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 281,
+    "filename": "10253_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10253_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 282,
+    "filename": "10254_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10254_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 283,
+    "filename": "10255_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10255_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 284,
+    "filename": "10256_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10256_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 285,
+    "filename": "10257_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10257_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 286,
+    "filename": "10258_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10258_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 287,
+    "filename": "10259_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10259_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 288,
+    "filename": "1025_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1025_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 289,
+    "filename": "10260_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10260_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 290,
+    "filename": "10261_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10261_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 291,
+    "filename": "10262_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10262_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 292,
+    "filename": "10263_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10263_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 293,
+    "filename": "10264_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10264_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 294,
+    "filename": "10265_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10265_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 295,
+    "filename": "10266_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10266_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 296,
+    "filename": "10267_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10267_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 297,
+    "filename": "10268_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10268_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 298,
+    "filename": "10269_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10269_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 299,
+    "filename": "1026_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1026_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 300,
+    "filename": "10270_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10270_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 301,
+    "filename": "10271_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10271_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 302,
+    "filename": "10272_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10272_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 303,
+    "filename": "10273_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10273_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 304,
+    "filename": "10274_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10274_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 305,
+    "filename": "10275_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10275_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 306,
+    "filename": "10276_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10276_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 307,
+    "filename": "10277_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10277_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 308,
+    "filename": "10278_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10278_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 309,
+    "filename": "10279_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10279_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 310,
+    "filename": "1027_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1027_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 311,
+    "filename": "10280_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10280_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 312,
+    "filename": "10281_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10281_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 313,
+    "filename": "10282_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10282_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 314,
+    "filename": "10283_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10283_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 315,
+    "filename": "10284_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10284_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 316,
+    "filename": "10285_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10285_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 317,
+    "filename": "10286_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10286_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 318,
+    "filename": "10287_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10287_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 319,
+    "filename": "10288_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10288_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 320,
+    "filename": "10289_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10289_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 321,
+    "filename": "1028_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1028_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 322,
+    "filename": "10290_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10290_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 323,
+    "filename": "10291_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10291_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 324,
+    "filename": "10292_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10292_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 325,
+    "filename": "10293_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10293_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 326,
+    "filename": "10294_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10294_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 327,
+    "filename": "10295_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10295_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 328,
+    "filename": "10296_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10296_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 329,
+    "filename": "10297_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10297_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 330,
+    "filename": "10298_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10298_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 331,
+    "filename": "10299_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10299_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 332,
+    "filename": "1029_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1029_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 333,
+    "filename": "102_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\102_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 334,
+    "filename": "10300_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10300_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 335,
+    "filename": "10301_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10301_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 336,
+    "filename": "10302_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10302_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 337,
+    "filename": "10303_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10303_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 338,
+    "filename": "10304_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10304_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 339,
+    "filename": "10305_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10305_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 340,
+    "filename": "10306_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10306_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 341,
+    "filename": "10307_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10307_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 342,
+    "filename": "10308_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10308_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 343,
+    "filename": "10309_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10309_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 344,
+    "filename": "1030_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1030_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 345,
+    "filename": "10310_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10310_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 346,
+    "filename": "10311_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10311_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 347,
+    "filename": "10312_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10312_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 348,
+    "filename": "10313_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10313_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 349,
+    "filename": "10314_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10314_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 350,
+    "filename": "10315_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10315_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 351,
+    "filename": "10316_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10316_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 352,
+    "filename": "10317_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10317_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 353,
+    "filename": "10318_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10318_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 354,
+    "filename": "10319_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10319_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 355,
+    "filename": "1031_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1031_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 356,
+    "filename": "10320_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10320_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 357,
+    "filename": "10321_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10321_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 358,
+    "filename": "10322_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10322_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 359,
+    "filename": "10323_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10323_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 360,
+    "filename": "10324_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10324_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 361,
+    "filename": "10325_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10325_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 362,
+    "filename": "10326_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10326_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 363,
+    "filename": "10327_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10327_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 364,
+    "filename": "10328_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10328_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 365,
+    "filename": "10329_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10329_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 366,
+    "filename": "1032_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1032_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 367,
+    "filename": "10330_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10330_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 368,
+    "filename": "10331_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10331_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 369,
+    "filename": "10332_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10332_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 370,
+    "filename": "10333_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10333_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 371,
+    "filename": "10334_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10334_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 372,
+    "filename": "10335_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10335_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 373,
+    "filename": "10336_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10336_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 374,
+    "filename": "10337_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10337_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 375,
+    "filename": "10338_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10338_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 376,
+    "filename": "10339_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10339_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 377,
+    "filename": "1033_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1033_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 378,
+    "filename": "10340_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10340_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 379,
+    "filename": "10341_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10341_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 380,
+    "filename": "10342_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10342_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 381,
+    "filename": "10343_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10343_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 382,
+    "filename": "10344_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10344_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 383,
+    "filename": "10345_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10345_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 384,
+    "filename": "10346_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10346_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 385,
+    "filename": "10347_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10347_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 386,
+    "filename": "10348_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10348_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 387,
+    "filename": "10349_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10349_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 388,
+    "filename": "1034_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1034_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 389,
+    "filename": "10350_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10350_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 390,
+    "filename": "10351_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10351_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 391,
+    "filename": "10352_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10352_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 392,
+    "filename": "10353_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10353_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 393,
+    "filename": "10354_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10354_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 394,
+    "filename": "10355_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10355_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 395,
+    "filename": "10356_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10356_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 396,
+    "filename": "10357_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10357_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 397,
+    "filename": "10358_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10358_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 398,
+    "filename": "10359_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10359_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 399,
+    "filename": "1035_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1035_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 400,
+    "filename": "10360_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10360_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 401,
+    "filename": "10361_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10361_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 402,
+    "filename": "10362_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10362_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 403,
+    "filename": "10363_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10363_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 404,
+    "filename": "10364_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10364_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 405,
+    "filename": "10365_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10365_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 406,
+    "filename": "10366_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10366_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 407,
+    "filename": "10367_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10367_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 408,
+    "filename": "10368_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10368_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 409,
+    "filename": "10369_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10369_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 410,
+    "filename": "1036_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1036_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 411,
+    "filename": "10370_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10370_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 412,
+    "filename": "10371_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10371_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 413,
+    "filename": "10372_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10372_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 414,
+    "filename": "10373_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10373_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 415,
+    "filename": "10374_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10374_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 416,
+    "filename": "10375_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10375_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 417,
+    "filename": "10376_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10376_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 418,
+    "filename": "10377_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10377_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 419,
+    "filename": "10378_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10378_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 420,
+    "filename": "10379_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10379_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 421,
+    "filename": "1037_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1037_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 422,
+    "filename": "10380_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10380_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 423,
+    "filename": "10381_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10381_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 424,
+    "filename": "10382_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10382_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 425,
+    "filename": "10383_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10383_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 426,
+    "filename": "10384_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10384_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 427,
+    "filename": "10385_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10385_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 428,
+    "filename": "10386_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10386_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 429,
+    "filename": "10387_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10387_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 430,
+    "filename": "10388_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10388_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 431,
+    "filename": "10389_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10389_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 432,
+    "filename": "1038_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1038_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 433,
+    "filename": "10390_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10390_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 434,
+    "filename": "10391_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10391_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 435,
+    "filename": "10392_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10392_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 436,
+    "filename": "10393_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10393_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 437,
+    "filename": "10394_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10394_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 438,
+    "filename": "10395_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10395_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 439,
+    "filename": "10396_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10396_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 440,
+    "filename": "10397_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10397_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 441,
+    "filename": "10398_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10398_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 442,
+    "filename": "10399_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10399_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 443,
+    "filename": "1039_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1039_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 444,
+    "filename": "103_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\103_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 445,
+    "filename": "10400_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10400_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 446,
+    "filename": "10401_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10401_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 447,
+    "filename": "10402_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10402_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 448,
+    "filename": "10403_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10403_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 449,
+    "filename": "10404_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10404_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 450,
+    "filename": "10405_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10405_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 451,
+    "filename": "10406_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10406_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 452,
+    "filename": "10407_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10407_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 453,
+    "filename": "10408_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10408_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 454,
+    "filename": "10409_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10409_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 455,
+    "filename": "1040_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1040_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 456,
+    "filename": "10410_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10410_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 457,
+    "filename": "10411_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10411_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 458,
+    "filename": "10412_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10412_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 459,
+    "filename": "10413_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10413_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 460,
+    "filename": "10414_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10414_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 461,
+    "filename": "10415_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10415_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 462,
+    "filename": "10416_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10416_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 463,
+    "filename": "10417_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10417_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 464,
+    "filename": "10418_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10418_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 465,
+    "filename": "10419_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10419_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 466,
+    "filename": "1041_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1041_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 467,
+    "filename": "10420_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10420_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 468,
+    "filename": "10421_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10421_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 469,
+    "filename": "10422_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10422_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 470,
+    "filename": "10423_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10423_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 471,
+    "filename": "10424_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10424_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 472,
+    "filename": "10425_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10425_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 473,
+    "filename": "10426_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10426_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 474,
+    "filename": "10427_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10427_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 475,
+    "filename": "10428_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10428_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 476,
+    "filename": "10429_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10429_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 477,
+    "filename": "1042_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1042_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 478,
+    "filename": "10430_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10430_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 479,
+    "filename": "10431_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10431_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 480,
+    "filename": "10432_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10432_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 481,
+    "filename": "10433_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10433_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 482,
+    "filename": "10434_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10434_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 483,
+    "filename": "10435_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10435_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 484,
+    "filename": "10436_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10436_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 485,
+    "filename": "10437_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10437_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 486,
+    "filename": "10438_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10438_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 487,
+    "filename": "10439_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10439_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 488,
+    "filename": "1043_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1043_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 489,
+    "filename": "10440_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10440_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 490,
+    "filename": "10441_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10441_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 491,
+    "filename": "10442_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10442_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 492,
+    "filename": "10443_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10443_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 493,
+    "filename": "10444_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10444_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 494,
+    "filename": "10445_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10445_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 495,
+    "filename": "10446_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10446_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 496,
+    "filename": "10447_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10447_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 497,
+    "filename": "10448_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10448_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 498,
+    "filename": "10449_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10449_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 499,
+    "filename": "1044_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1044_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 500,
+    "filename": "10450_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10450_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 501,
+    "filename": "10451_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10451_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 502,
+    "filename": "10452_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10452_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 503,
+    "filename": "10453_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10453_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 504,
+    "filename": "10454_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10454_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 505,
+    "filename": "10455_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10455_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 506,
+    "filename": "10456_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10456_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 507,
+    "filename": "10457_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10457_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 508,
+    "filename": "10458_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10458_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 509,
+    "filename": "10459_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10459_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 510,
+    "filename": "1045_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1045_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 511,
+    "filename": "10460_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10460_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 512,
+    "filename": "10461_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10461_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 513,
+    "filename": "10462_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10462_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 514,
+    "filename": "10463_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10463_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 515,
+    "filename": "10464_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10464_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 516,
+    "filename": "10465_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10465_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 517,
+    "filename": "10466_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10466_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 518,
+    "filename": "10467_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10467_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 519,
+    "filename": "10468_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10468_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 520,
+    "filename": "10469_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10469_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 521,
+    "filename": "1046_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1046_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 522,
+    "filename": "10470_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10470_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 523,
+    "filename": "10471_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10471_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 524,
+    "filename": "10472_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10472_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 525,
+    "filename": "10473_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10473_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 526,
+    "filename": "10474_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10474_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 527,
+    "filename": "10475_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10475_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 528,
+    "filename": "10476_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10476_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 529,
+    "filename": "10477_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10477_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 530,
+    "filename": "10478_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10478_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 531,
+    "filename": "10479_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10479_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 532,
+    "filename": "1047_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1047_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 533,
+    "filename": "10480_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10480_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 534,
+    "filename": "10481_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10481_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 535,
+    "filename": "10482_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10482_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 536,
+    "filename": "10483_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10483_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 537,
+    "filename": "10484_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10484_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 538,
+    "filename": "10485_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10485_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 539,
+    "filename": "10486_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10486_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 540,
+    "filename": "10487_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10487_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 541,
+    "filename": "10488_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10488_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 542,
+    "filename": "10489_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10489_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 543,
+    "filename": "1048_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1048_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 544,
+    "filename": "10490_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10490_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 545,
+    "filename": "10491_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10491_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 546,
+    "filename": "10492_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10492_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 547,
+    "filename": "10493_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10493_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 548,
+    "filename": "10494_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10494_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 549,
+    "filename": "10495_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10495_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 550,
+    "filename": "10496_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10496_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 551,
+    "filename": "10497_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10497_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 552,
+    "filename": "10498_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10498_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 553,
+    "filename": "10499_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10499_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 554,
+    "filename": "1049_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1049_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 555,
+    "filename": "104_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\104_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 556,
+    "filename": "10500_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10500_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 557,
+    "filename": "10501_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10501_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 558,
+    "filename": "10502_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10502_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 559,
+    "filename": "10503_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10503_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 560,
+    "filename": "10504_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10504_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 561,
+    "filename": "10505_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10505_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 562,
+    "filename": "10506_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10506_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 563,
+    "filename": "10507_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10507_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 564,
+    "filename": "10508_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10508_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 565,
+    "filename": "10509_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10509_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 566,
+    "filename": "1050_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1050_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 567,
+    "filename": "10510_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10510_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 568,
+    "filename": "10511_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10511_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 569,
+    "filename": "10512_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10512_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 570,
+    "filename": "10513_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10513_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 571,
+    "filename": "10514_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10514_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 572,
+    "filename": "10515_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10515_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 573,
+    "filename": "10516_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10516_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 574,
+    "filename": "10517_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10517_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 575,
+    "filename": "10518_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10518_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 576,
+    "filename": "10519_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10519_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 577,
+    "filename": "1051_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1051_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 578,
+    "filename": "10520_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10520_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 579,
+    "filename": "10521_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10521_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 580,
+    "filename": "10522_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10522_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 581,
+    "filename": "10523_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10523_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 582,
+    "filename": "10524_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10524_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 583,
+    "filename": "10525_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10525_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 584,
+    "filename": "10526_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10526_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 585,
+    "filename": "10527_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10527_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 586,
+    "filename": "10528_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10528_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 587,
+    "filename": "10529_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10529_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 588,
+    "filename": "1052_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1052_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 589,
+    "filename": "10530_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10530_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 590,
+    "filename": "10531_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10531_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 591,
+    "filename": "10532_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10532_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 592,
+    "filename": "10533_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10533_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 593,
+    "filename": "10534_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10534_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 594,
+    "filename": "10535_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10535_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 595,
+    "filename": "10536_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10536_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 596,
+    "filename": "10537_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10537_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 597,
+    "filename": "10538_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10538_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 598,
+    "filename": "10539_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10539_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 599,
+    "filename": "1053_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1053_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 600,
+    "filename": "10540_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10540_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 601,
+    "filename": "10541_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10541_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 602,
+    "filename": "10542_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10542_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 603,
+    "filename": "10543_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10543_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 604,
+    "filename": "10544_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10544_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 605,
+    "filename": "10545_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10545_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 606,
+    "filename": "10546_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10546_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 607,
+    "filename": "10547_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10547_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 608,
+    "filename": "10548_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10548_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 609,
+    "filename": "10549_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10549_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 610,
+    "filename": "1054_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1054_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 611,
+    "filename": "10550_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10550_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 612,
+    "filename": "10551_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10551_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 613,
+    "filename": "10552_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10552_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 614,
+    "filename": "10553_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10553_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 615,
+    "filename": "10554_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10554_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 616,
+    "filename": "10555_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10555_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 617,
+    "filename": "10556_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10556_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 618,
+    "filename": "10557_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10557_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 619,
+    "filename": "10558_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10558_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 620,
+    "filename": "10559_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10559_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 621,
+    "filename": "1055_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1055_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 622,
+    "filename": "10560_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10560_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 623,
+    "filename": "10561_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10561_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 624,
+    "filename": "10562_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10562_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 625,
+    "filename": "10563_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10563_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 626,
+    "filename": "10564_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10564_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 627,
+    "filename": "10565_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10565_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 628,
+    "filename": "10566_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10566_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 629,
+    "filename": "10567_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10567_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 630,
+    "filename": "10568_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10568_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 631,
+    "filename": "10569_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10569_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 632,
+    "filename": "1056_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1056_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 633,
+    "filename": "10570_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10570_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 634,
+    "filename": "10571_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10571_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 635,
+    "filename": "10572_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10572_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 636,
+    "filename": "10573_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10573_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 637,
+    "filename": "10574_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10574_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 638,
+    "filename": "10575_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10575_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 639,
+    "filename": "10576_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10576_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 640,
+    "filename": "10577_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10577_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 641,
+    "filename": "10578_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10578_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 642,
+    "filename": "10579_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10579_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 643,
+    "filename": "1057_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1057_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 644,
+    "filename": "10580_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10580_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 645,
+    "filename": "10581_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10581_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 646,
+    "filename": "10582_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10582_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 647,
+    "filename": "10583_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10583_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 648,
+    "filename": "10584_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10584_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 649,
+    "filename": "10585_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10585_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 650,
+    "filename": "10586_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10586_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 651,
+    "filename": "10587_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10587_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 652,
+    "filename": "10588_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10588_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 653,
+    "filename": "10589_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10589_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 654,
+    "filename": "1058_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1058_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 655,
+    "filename": "10590_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10590_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 656,
+    "filename": "10591_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10591_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 657,
+    "filename": "10592_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10592_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 658,
+    "filename": "10593_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10593_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 659,
+    "filename": "10594_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10594_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 660,
+    "filename": "10595_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10595_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 661,
+    "filename": "10596_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10596_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 662,
+    "filename": "10597_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10597_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 663,
+    "filename": "10598_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10598_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 664,
+    "filename": "10599_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10599_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 665,
+    "filename": "1059_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1059_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 666,
+    "filename": "105_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\105_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 667,
+    "filename": "10600_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10600_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 668,
+    "filename": "10601_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10601_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 669,
+    "filename": "10602_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10602_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 670,
+    "filename": "10603_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10603_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 671,
+    "filename": "10604_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10604_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 672,
+    "filename": "10605_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10605_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 673,
+    "filename": "10606_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10606_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 674,
+    "filename": "10607_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10607_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 675,
+    "filename": "10608_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10608_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 676,
+    "filename": "10609_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10609_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 677,
+    "filename": "1060_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1060_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 678,
+    "filename": "10610_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10610_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 679,
+    "filename": "10611_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10611_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 680,
+    "filename": "10612_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10612_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 681,
+    "filename": "10613_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10613_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 682,
+    "filename": "10614_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10614_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 683,
+    "filename": "10615_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10615_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 684,
+    "filename": "10616_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10616_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 685,
+    "filename": "10617_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10617_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 686,
+    "filename": "10618_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10618_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 687,
+    "filename": "10619_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10619_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 688,
+    "filename": "1061_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1061_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 689,
+    "filename": "10620_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10620_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 690,
+    "filename": "10621_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10621_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 691,
+    "filename": "10622_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10622_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 692,
+    "filename": "10623_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10623_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 693,
+    "filename": "10624_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10624_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 694,
+    "filename": "10625_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10625_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 695,
+    "filename": "10626_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10626_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 696,
+    "filename": "10627_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10627_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 697,
+    "filename": "10628_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10628_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 698,
+    "filename": "10629_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10629_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 699,
+    "filename": "1062_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1062_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 700,
+    "filename": "10630_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10630_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 701,
+    "filename": "10631_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10631_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 702,
+    "filename": "10632_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10632_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 703,
+    "filename": "10633_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10633_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 704,
+    "filename": "10634_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10634_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 705,
+    "filename": "10635_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10635_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 706,
+    "filename": "10636_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10636_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 707,
+    "filename": "10637_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10637_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 708,
+    "filename": "10638_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10638_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 709,
+    "filename": "10639_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10639_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 710,
+    "filename": "1063_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1063_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 711,
+    "filename": "10640_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10640_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 712,
+    "filename": "10641_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10641_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 713,
+    "filename": "10642_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10642_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 714,
+    "filename": "10643_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10643_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 715,
+    "filename": "10644_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10644_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 716,
+    "filename": "10645_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10645_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 717,
+    "filename": "10646_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10646_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 718,
+    "filename": "10647_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10647_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 719,
+    "filename": "10648_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10648_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 720,
+    "filename": "10649_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10649_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 721,
+    "filename": "1064_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1064_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 722,
+    "filename": "10650_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10650_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 723,
+    "filename": "10651_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10651_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 724,
+    "filename": "10652_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10652_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 725,
+    "filename": "10653_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10653_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 726,
+    "filename": "10654_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10654_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 727,
+    "filename": "10655_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10655_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 728,
+    "filename": "10656_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10656_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 729,
+    "filename": "10657_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10657_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 730,
+    "filename": "10658_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10658_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 731,
+    "filename": "10659_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10659_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 732,
+    "filename": "1065_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1065_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 733,
+    "filename": "10660_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10660_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 734,
+    "filename": "10661_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10661_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 735,
+    "filename": "10662_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10662_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 736,
+    "filename": "10663_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10663_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 737,
+    "filename": "10664_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10664_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 738,
+    "filename": "10665_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10665_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 739,
+    "filename": "10666_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10666_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 740,
+    "filename": "10667_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10667_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 741,
+    "filename": "10668_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10668_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 742,
+    "filename": "10669_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10669_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 743,
+    "filename": "1066_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1066_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 744,
+    "filename": "10670_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10670_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 745,
+    "filename": "10671_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10671_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 746,
+    "filename": "10672_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10672_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 747,
+    "filename": "10673_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10673_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 748,
+    "filename": "10674_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10674_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 749,
+    "filename": "10675_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10675_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 750,
+    "filename": "10676_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10676_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 751,
+    "filename": "10677_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10677_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 752,
+    "filename": "10678_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10678_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 753,
+    "filename": "10679_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10679_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 754,
+    "filename": "1067_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1067_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 755,
+    "filename": "10680_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10680_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 756,
+    "filename": "10681_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10681_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 757,
+    "filename": "10682_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10682_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 758,
+    "filename": "10683_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10683_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 759,
+    "filename": "10684_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10684_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 760,
+    "filename": "10685_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10685_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 761,
+    "filename": "10686_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10686_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 762,
+    "filename": "10687_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10687_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 763,
+    "filename": "10688_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10688_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 764,
+    "filename": "10689_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10689_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 765,
+    "filename": "1068_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1068_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 766,
+    "filename": "10690_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10690_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 767,
+    "filename": "10691_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10691_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 768,
+    "filename": "10692_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10692_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 769,
+    "filename": "10693_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10693_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 770,
+    "filename": "10694_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10694_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 771,
+    "filename": "10695_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10695_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 772,
+    "filename": "10696_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10696_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 773,
+    "filename": "10697_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10697_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 774,
+    "filename": "10698_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10698_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 775,
+    "filename": "10699_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10699_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 776,
+    "filename": "1069_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1069_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 777,
+    "filename": "106_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\106_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 778,
+    "filename": "10700_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10700_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 779,
+    "filename": "10701_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10701_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 780,
+    "filename": "10702_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10702_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 781,
+    "filename": "10703_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10703_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 782,
+    "filename": "10704_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10704_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 783,
+    "filename": "10705_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10705_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 784,
+    "filename": "10706_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10706_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 785,
+    "filename": "10707_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10707_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 786,
+    "filename": "10708_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10708_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 787,
+    "filename": "10709_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10709_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 788,
+    "filename": "1070_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1070_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 789,
+    "filename": "10710_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10710_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 790,
+    "filename": "10711_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10711_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 791,
+    "filename": "10712_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10712_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 792,
+    "filename": "10713_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10713_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 793,
+    "filename": "10714_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10714_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 794,
+    "filename": "10715_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10715_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 795,
+    "filename": "10716_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10716_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 796,
+    "filename": "10717_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10717_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 797,
+    "filename": "10718_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10718_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 798,
+    "filename": "10719_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10719_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 799,
+    "filename": "1071_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1071_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 800,
+    "filename": "10720_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10720_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 801,
+    "filename": "10721_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10721_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 802,
+    "filename": "10722_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10722_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 803,
+    "filename": "10723_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10723_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 804,
+    "filename": "10724_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10724_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 805,
+    "filename": "10725_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10725_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 806,
+    "filename": "10726_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10726_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 807,
+    "filename": "10727_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10727_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 808,
+    "filename": "10728_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10728_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 809,
+    "filename": "10729_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10729_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 810,
+    "filename": "1072_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1072_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 811,
+    "filename": "10730_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10730_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 812,
+    "filename": "10731_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10731_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 813,
+    "filename": "10732_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10732_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 814,
+    "filename": "10733_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10733_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 815,
+    "filename": "10734_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10734_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 816,
+    "filename": "10735_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10735_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 817,
+    "filename": "10736_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10736_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 818,
+    "filename": "10737_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10737_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 819,
+    "filename": "10738_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10738_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 820,
+    "filename": "10739_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10739_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 821,
+    "filename": "1073_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1073_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 822,
+    "filename": "10740_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10740_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 823,
+    "filename": "10741_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10741_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 824,
+    "filename": "10742_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10742_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 825,
+    "filename": "10743_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10743_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 826,
+    "filename": "10744_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10744_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 827,
+    "filename": "10745_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10745_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 828,
+    "filename": "10746_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10746_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 829,
+    "filename": "10747_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10747_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 830,
+    "filename": "10748_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10748_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 831,
+    "filename": "10749_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10749_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 832,
+    "filename": "1074_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1074_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 833,
+    "filename": "10750_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10750_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 834,
+    "filename": "10751_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10751_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 835,
+    "filename": "10752_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10752_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 836,
+    "filename": "10753_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10753_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 837,
+    "filename": "10754_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10754_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 838,
+    "filename": "10755_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10755_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 839,
+    "filename": "10756_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10756_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 840,
+    "filename": "10757_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10757_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 841,
+    "filename": "10758_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10758_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 842,
+    "filename": "10759_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10759_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 843,
+    "filename": "1075_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1075_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 844,
+    "filename": "10760_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10760_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 845,
+    "filename": "10761_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10761_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 846,
+    "filename": "10762_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10762_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 847,
+    "filename": "10763_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10763_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 848,
+    "filename": "10764_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10764_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 849,
+    "filename": "10765_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10765_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 850,
+    "filename": "10766_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10766_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 851,
+    "filename": "10767_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10767_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 852,
+    "filename": "10768_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10768_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 853,
+    "filename": "10769_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10769_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 854,
+    "filename": "1076_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1076_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 855,
+    "filename": "10770_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10770_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 856,
+    "filename": "10771_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10771_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 857,
+    "filename": "10772_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10772_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 858,
+    "filename": "10773_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10773_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 859,
+    "filename": "10774_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10774_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 860,
+    "filename": "10775_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10775_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 861,
+    "filename": "10776_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10776_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 862,
+    "filename": "10777_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10777_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 863,
+    "filename": "10778_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10778_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 864,
+    "filename": "10779_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10779_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 865,
+    "filename": "1077_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1077_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 866,
+    "filename": "10780_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10780_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 867,
+    "filename": "10781_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10781_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 868,
+    "filename": "10782_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10782_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 869,
+    "filename": "10783_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10783_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 870,
+    "filename": "10784_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10784_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 871,
+    "filename": "10785_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10785_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 872,
+    "filename": "10786_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10786_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 873,
+    "filename": "10787_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10787_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 874,
+    "filename": "10788_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10788_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 875,
+    "filename": "10789_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10789_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 876,
+    "filename": "1078_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1078_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 877,
+    "filename": "10790_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10790_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 878,
+    "filename": "10791_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10791_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 879,
+    "filename": "10792_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10792_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 880,
+    "filename": "10793_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10793_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 881,
+    "filename": "10794_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10794_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 882,
+    "filename": "10795_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10795_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 883,
+    "filename": "10796_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10796_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 884,
+    "filename": "10797_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10797_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 885,
+    "filename": "10798_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10798_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 886,
+    "filename": "10799_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10799_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 887,
+    "filename": "1079_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1079_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 888,
+    "filename": "107_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\107_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 889,
+    "filename": "10800_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10800_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 890,
+    "filename": "10801_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10801_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 891,
+    "filename": "10802_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10802_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 892,
+    "filename": "10803_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10803_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 893,
+    "filename": "10804_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10804_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 894,
+    "filename": "10805_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10805_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 895,
+    "filename": "10806_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10806_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 896,
+    "filename": "10807_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10807_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 897,
+    "filename": "10808_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10808_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 898,
+    "filename": "10809_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10809_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 899,
+    "filename": "1080_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1080_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 900,
+    "filename": "10810_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10810_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 901,
+    "filename": "10811_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10811_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 902,
+    "filename": "10812_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10812_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 903,
+    "filename": "10813_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10813_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 904,
+    "filename": "10814_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10814_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 905,
+    "filename": "10815_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10815_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 906,
+    "filename": "10816_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10816_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 907,
+    "filename": "10817_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10817_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 908,
+    "filename": "10818_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10818_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 909,
+    "filename": "10819_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10819_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 910,
+    "filename": "1081_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1081_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 911,
+    "filename": "10820_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10820_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 912,
+    "filename": "10821_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10821_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 913,
+    "filename": "10822_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10822_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 914,
+    "filename": "10823_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10823_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 915,
+    "filename": "10824_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10824_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 916,
+    "filename": "10825_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10825_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 917,
+    "filename": "10826_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10826_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 918,
+    "filename": "10827_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10827_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 919,
+    "filename": "10828_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10828_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 920,
+    "filename": "10829_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10829_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 921,
+    "filename": "1082_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1082_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 922,
+    "filename": "10830_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10830_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 923,
+    "filename": "10831_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10831_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 924,
+    "filename": "10832_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10832_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 925,
+    "filename": "10833_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10833_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 926,
+    "filename": "10834_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10834_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 927,
+    "filename": "10835_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10835_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 928,
+    "filename": "10836_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10836_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 929,
+    "filename": "10837_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10837_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 930,
+    "filename": "10838_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10838_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 931,
+    "filename": "10839_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10839_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 932,
+    "filename": "1083_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1083_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 933,
+    "filename": "10840_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10840_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 934,
+    "filename": "10841_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10841_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 935,
+    "filename": "10842_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10842_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 936,
+    "filename": "10843_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10843_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 937,
+    "filename": "10844_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10844_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 938,
+    "filename": "10845_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10845_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 939,
+    "filename": "10846_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10846_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 940,
+    "filename": "10847_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10847_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 941,
+    "filename": "10848_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10848_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 942,
+    "filename": "10849_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10849_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 943,
+    "filename": "1084_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1084_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 944,
+    "filename": "10850_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10850_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 945,
+    "filename": "10851_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10851_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 946,
+    "filename": "10852_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10852_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 947,
+    "filename": "10853_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10853_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 948,
+    "filename": "10854_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10854_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 949,
+    "filename": "10855_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10855_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 950,
+    "filename": "10856_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10856_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 951,
+    "filename": "10857_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10857_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 952,
+    "filename": "10858_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10858_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 953,
+    "filename": "10859_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10859_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 954,
+    "filename": "1085_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1085_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 955,
+    "filename": "10860_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10860_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 956,
+    "filename": "10861_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10861_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 957,
+    "filename": "10862_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10862_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 958,
+    "filename": "10863_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10863_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 959,
+    "filename": "10864_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10864_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 960,
+    "filename": "10865_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10865_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 961,
+    "filename": "10866_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10866_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 962,
+    "filename": "10867_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10867_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 963,
+    "filename": "10868_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10868_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 964,
+    "filename": "10869_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10869_0.txt",
+    "cluster": 1
+  },
+  {
+    "index": 965,
+    "filename": "1086_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1086_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 966,
+    "filename": "10870_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10870_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 967,
+    "filename": "10871_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10871_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 968,
+    "filename": "10872_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10872_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 969,
+    "filename": "10873_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10873_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 970,
+    "filename": "10874_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10874_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 971,
+    "filename": "10875_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10875_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 972,
+    "filename": "10876_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10876_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 973,
+    "filename": "10877_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10877_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 974,
+    "filename": "10878_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10878_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 975,
+    "filename": "10879_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10879_0.txt",
+    "cluster": 4
+  },
+  {
+    "index": 976,
+    "filename": "1087_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1087_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 977,
+    "filename": "10880_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10880_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 978,
+    "filename": "10881_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10881_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 979,
+    "filename": "10882_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10882_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 980,
+    "filename": "10883_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10883_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 981,
+    "filename": "10884_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10884_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 982,
+    "filename": "10885_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10885_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 983,
+    "filename": "10886_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10886_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 984,
+    "filename": "10887_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10887_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 985,
+    "filename": "10888_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10888_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 986,
+    "filename": "10889_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10889_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 987,
+    "filename": "1088_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1088_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 988,
+    "filename": "10890_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10890_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 989,
+    "filename": "10891_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10891_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 990,
+    "filename": "10892_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10892_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 991,
+    "filename": "10893_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10893_0.txt",
+    "cluster": 0
+  },
+  {
+    "index": 992,
+    "filename": "10894_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10894_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 993,
+    "filename": "10895_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10895_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 994,
+    "filename": "10896_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10896_0.txt",
+    "cluster": 2
+  },
+  {
+    "index": 995,
+    "filename": "10897_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10897_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 996,
+    "filename": "10898_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10898_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 997,
+    "filename": "10899_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\10899_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 998,
+    "filename": "1089_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\1089_0.txt",
+    "cluster": 3
+  },
+  {
+    "index": 999,
+    "filename": "108_0.txt",
+    "file_path": "aclImdb\\train\\unsup\\108_0.txt",
+    "cluster": 3
+  }
+]

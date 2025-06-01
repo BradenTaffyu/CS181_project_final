@@ -12,11 +12,15 @@ nltk.download('stopwords', quiet=True)
 def load_data():
     """加载embedding和文件映射"""
     embeddings = np.load('K-means\\unsup_embeddings.npy')
-    #SUBSET_SIZE = 2000  # 为了加快速度，使用前1000个样本
+    #SUBSET_SIZE = 1000  # 为了加快速度，使用前1000个样本
     #embeddings = embeddings[:SUBSET_SIZE] #加快速度用
     
+    from sklearn.preprocessing import StandardScaler
+    scaler = StandardScaler()
+    embeddings = scaler.fit_transform(embeddings)
+
     with open('file_mapping.json', 'r', encoding='utf-8') as f:
-        file_mapping = json.load(f) #[:SUBSET_SIZE]  # 加快速度用
+        file_mapping = json.load(f)#[:SUBSET_SIZE]  # 加快速度用
     
     print(f"加载了 {embeddings.shape[0]} 个样本，embedding维度: {embeddings.shape[1]}")
     return embeddings, file_mapping
@@ -132,16 +136,13 @@ def analyze_clusters(embeddings, file_mapping, cluster_labels, k):
         print("\n关键词标签:")
         print("/".join([kw[0] for kw in top_keywords]))
 
-        # 显示前几个样本的文件名和内容预览
-        print("样本文件:")
-        for i, idx in enumerate(indices[:10]):
-            filename = file_mapping[idx]['filename']
-            file_path = file_mapping[idx]['file_path']
-            content_preview = read_file_content(file_path, max_length=100)
-            print(f"  {filename}: {content_preview}")
+        # 显示每个聚类的中心文本
+        center_idx = np.argmin(np.linalg.norm(embeddings[indices] - kmeans.cluster_centers_[cluster_id], axis=1))
+        center_file = file_mapping[indices[center_idx]]['file_path']
+        center_content = read_file_content(center_file, max_length=200)
+        print(f"\n中心文本 (文件: {center_file}):")
+        print(center_content)
         
-        if len(indices) > 5:
-            print(f"  ... 还有 {len(indices)-10} 个样本")
 
 
 def save_clustering_results(file_mapping, cluster_labels, k):
@@ -177,11 +178,42 @@ def visualize_clusters(embeddings, cluster_labels, k):
     plt.show()
 
 
+def find_optimal_k(embeddings, max_k=10):
+    """使用肘部法则寻找最佳K值"""
+    sse = []
+    k_range = range(1, max_k+1)
+    
+    for k in k_range:
+        kmeans = KMeans(n_clusters=k, random_state=42)
+        kmeans.fit(embeddings)
+        sse.append(kmeans.inertia_)
+        print(f"K={k} 计算完成，SSE={kmeans.inertia_:.2f}")
+    
+    # 绘制肘部曲线
+    plt.figure(figsize=(10,6))
+    plt.plot(k_range, sse, 'bo-')
+    plt.xlabel('簇数量 (K)')
+    plt.ylabel('SSE (平方误差和)')
+    plt.title('肘部法则分析')
+    plt.xticks(k_range)
+    plt.savefig('elbow_method.png', dpi=300)
+    plt.show()
+    
+    return sse
+
 if __name__ == '__main__':
     # 加载数据
     embeddings, file_mapping = load_data()
+
+    #print("\n=== 开始肘部法则分析 ===")
+    #sse = find_optimal_k(embeddings, max_k=10)
+    
+    # 设置聚类数量（根据分析结果手动输入）
+    #optimal_k = int(input("\n根据肘部曲线图，请输入最佳K值: "))
+    
+
     # 设置聚类数量
-    k = 7  # 你可以修改这个值
+    k = 5  # 你可以修改这个值
     from collections import defaultdict
     import pickle
     import info
@@ -195,7 +227,8 @@ if __name__ == '__main__':
     # 执行K-means聚类
     cluster_labels, kmeans = kmeans_clustering(embeddings, k)
     print(f"聚类完成，k={k}")
-    
+
+
     # 分析聚类结果
     analyze_clusters(embeddings, file_mapping, cluster_labels, k)
     
