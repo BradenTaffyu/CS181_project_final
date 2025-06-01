@@ -5,7 +5,7 @@ from collections import defaultdict
 import numpy as np
 nltk.download('stopwords', quiet=True)
 
-def calculate_relative_frequency(cluster_texts, global_texts):
+def calculate_relative_frequency(cluster_texts, global_texts, existing_labels=[]):
     """实现相对词频算法 score = count.x * log(count.x/count.y)"""
     # 停用词过滤
     stop_words = set(stopwords.words('english'))
@@ -31,4 +31,7 @@ def calculate_relative_frequency(cluster_texts, global_texts):
     
     # 计算相对词频得分
     merged['score'] = merged['count_x'] * np.log(merged['count_x'] / merged['count_y'].astype(float))
-    return merged.sort_values('score', ascending=False)
+    
+    filtered_scores = [(row.word, float(row.score)) for row in merged.itertuples(index=False) 
+                      if row.word not in existing_labels and row.word not in stop_words]
+    return pd.DataFrame(filtered_scores, columns=['word', 'score']).sort_values('score', ascending=False)

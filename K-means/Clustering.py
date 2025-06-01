@@ -5,16 +5,18 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from pathlib import Path
 from clean_data import clean_data
-
+import nltk
+from nltk.corpus import stopwords
+nltk.download('stopwords', quiet=True)
 
 def load_data():
     """加载embedding和文件映射"""
     embeddings = np.load('K-means\\unsup_embeddings.npy')
-    SUBSET_SIZE = 2000  # 为了加快速度，使用前1000个样本
-    embeddings = embeddings[:SUBSET_SIZE] #加快速度用
+    #SUBSET_SIZE = 2000  # 为了加快速度，使用前1000个样本
+    #embeddings = embeddings[:SUBSET_SIZE] #加快速度用
     
     with open('file_mapping.json', 'r', encoding='utf-8') as f:
-        file_mapping = json.load(f)[:SUBSET_SIZE]  # 加快速度用
+        file_mapping = json.load(f) #[:SUBSET_SIZE]  # 加快速度用
     
     print(f"加载了 {embeddings.shape[0]} 个样本，embedding维度: {embeddings.shape[1]}")
     return embeddings, file_mapping
@@ -50,17 +52,9 @@ sys.path.append(str(current_dir.parent))  # 添加当前目录的上级目录到
 
 
 def analyze_clusters(embeddings, file_mapping, cluster_labels, k):
+    global existing_labels
+    existing_labels = []
 
-    # 在 analyze_clusters 开头添加测试
-    test_texts = [
-    "This movie is absolutely wonderful!",  # 积极样本
-    "Terrible acting and boring plot",      # 消极样本
-    ]
-
-    print("\n情感模型验证:")
-    for text in test_texts:
-        result = info.classify(clean_data(text))
-        print(f"文本: {text[:30]}... → 预测结果: {'积极' if result else '消极'}")
 
     """分析聚类结果"""
     print(f"\n=== 聚类分析 (k={k}) ===")
@@ -122,17 +116,18 @@ def analyze_clusters(embeddings, file_mapping, cluster_labels, k):
         
         # 计算关键词
         # 使用相对词频算法计算关键词
-        merged_scores = calculate_relative_frequency(cluster_texts, global_texts)
+        merged_scores = calculate_relative_frequency(cluster_texts, global_texts, existing_labels)
         
-        # 带排重的关键词选择逻辑
-        existing_labels = []
-        # 提取分数为标量值
-        filtered_scores = [(row.word, float(row.score)) for row in merged_scores.itertuples(index=False) if row.word not in existing_labels]
+        # 直接使用已过滤的分数
+        # 使用已过滤的分数
+        top_keywords = merged_scores.head(5)
+        existing_labels.extend([kw[0] for kw in top_keywords.values])
+        filtered_scores = list(zip(top_keywords.word, top_keywords.score))
         # 取前5个未使用的关键词
         top_keywords = sorted(filtered_scores, key=lambda x: -x[1])[:5]
         
         # 更新全局标签缓存
-        existing_labels.extend([kw[0] for kw in top_keywords])
+        existing_labels += [kw[0] for kw in top_keywords if kw[0] not in existing_labels]
         
         print("\n关键词标签:")
         print("/".join([kw[0] for kw in top_keywords]))
