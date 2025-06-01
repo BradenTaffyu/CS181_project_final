@@ -10,9 +10,11 @@ from clean_data import clean_data
 def load_data():
     """加载embedding和文件映射"""
     embeddings = np.load('K-means\\unsup_embeddings.npy')
+    SUBSET_SIZE = 2000  # 为了加快速度，使用前1000个样本
+    embeddings = embeddings[:SUBSET_SIZE] #加快速度用
     
     with open('file_mapping.json', 'r', encoding='utf-8') as f:
-        file_mapping = json.load(f)
+        file_mapping = json.load(f)[:SUBSET_SIZE]  # 加快速度用
     
     print(f"加载了 {embeddings.shape[0]} 个样本，embedding维度: {embeddings.shape[1]}")
     return embeddings, file_mapping
@@ -111,6 +113,30 @@ def analyze_clusters(embeddings, file_mapping, cluster_labels, k):
         print(f"  积极: {pos_ratio:.1f}%")
         print(f"  消极: {neg_ratio:.1f}%")
 
+        # 新增关键词标注
+        from sentiment_metrics import calculate_relative_frequency
+        
+        # 收集当前簇和全局文本
+        cluster_texts = [clean_data(read_file_content(file_mapping[idx]['file_path'])) for idx in indices]
+        global_texts = [clean_data(read_file_content(m['file_path'])) for m in file_mapping]
+        
+        # 计算关键词
+        # 使用相对词频算法计算关键词
+        merged_scores = calculate_relative_frequency(cluster_texts, global_texts)
+        
+        # 带排重的关键词选择逻辑
+        existing_labels = []
+        # 提取分数为标量值
+        filtered_scores = [(row.word, float(row.score)) for row in merged_scores.itertuples(index=False) if row.word not in existing_labels]
+        # 取前5个未使用的关键词
+        top_keywords = sorted(filtered_scores, key=lambda x: -x[1])[:5]
+        
+        # 更新全局标签缓存
+        existing_labels.extend([kw[0] for kw in top_keywords])
+        
+        print("\n关键词标签:")
+        print("/".join([kw[0] for kw in top_keywords]))
+
         # 显示前几个样本的文件名和内容预览
         print("样本文件:")
         for i, idx in enumerate(indices[:10]):
@@ -147,9 +173,9 @@ def visualize_clusters(embeddings, cluster_labels, k):
     
     plt.figure(figsize=(10, 8))
     scatter = plt.scatter(reduced[:, 0], reduced[:, 1], c=cluster_labels, cmap='tab10', s=10, alpha=0.7)
-    plt.title(f'K-means聚类结果 (k={k})')
-    plt.xlabel(f'PCA 1 (解释方差: {pca.explained_variance_ratio_[0]:.2%})')
-    plt.ylabel(f'PCA 2 (解释方差: {pca.explained_variance_ratio_[1]:.2%})')
+    plt.title(f'result of K-means (k={k})')
+    plt.xlabel(f'PCA 1 (explained variance: {pca.explained_variance_ratio_[0]:.2%})')
+    plt.ylabel(f'PCA 2 (explained variance: {pca.explained_variance_ratio_[1]:.2%})')
     plt.colorbar(scatter, ticks=range(k))
     plt.tight_layout()
     plt.savefig(f'clustering_k{k}.png', dpi=300, bbox_inches='tight')
@@ -159,9 +185,8 @@ def visualize_clusters(embeddings, cluster_labels, k):
 if __name__ == '__main__':
     # 加载数据
     embeddings, file_mapping = load_data()
-    
     # 设置聚类数量
-    k = 3  # 你可以修改这个值
+    k = 7  # 你可以修改这个值
     from collections import defaultdict
     import pickle
     import info
