@@ -10,15 +10,16 @@ def get_paths():
     """
     Returns supervised paths annotated with their actual labels.
     """
-    posfiles = [("./aclImdb/test/pos/" + f, True) for f in os.listdir("./aclImdb/test/pos/")]
-    negfiles = [("./aclImdb/test/neg/" + f, False) for f in os.listdir("./aclImdb/test/neg/")]
+    posfiles = [("./NB_on_Steam_Data/test_pos/" + f, True) for f in os.listdir("./NB_on_Steam_Data/test_pos/")]
+    negfiles = [("./NB_on_Steam_Data/test_neg/" + f, False) for f in os.listdir("./NB_on_Steam_Data/test_neg/")]
     return posfiles + negfiles
 
 
 def fscore(classifier, file_paths):
     tpos, fpos, fneg, tneg = 0, 0, 0, 0
     for path, label in file_paths:
-        result = classifier(open(path).read())
+        with open(path, 'r', encoding='utf-8') as f:
+            result = classifier(f.read())
         if label and result:
             tpos += 1
         elif label and (not result):
@@ -33,6 +34,7 @@ def fscore(classifier, file_paths):
     accu = 100.0 * (tpos + tneg) / (tpos+tneg+fpos+fneg)
     print ("True Positives: %d\nFalse Positives: %d\nFalse Negatives: %d\n" % (tpos, fpos, fneg))
     print ("Precision: %lf\nRecall: %lf\nAccuracy: %lf" % (prec, recall, accu))
+    print("tpos,tneg,fpos,fneg:", tpos, tneg, fpos, fneg)
 
 def main():
     from info import classify, train 
