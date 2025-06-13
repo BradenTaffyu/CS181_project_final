@@ -1,0 +1,1 @@
+no longer supports linux steam deck because they refuse to click a checkbox to enable the support for their new maleware anticheat

@@ -1,0 +1,1 @@
+if you are on controller try these settings deadzone 2 speed sensitivity 70 speed filter 10 steer speed 70 steer gamma 3 0 steer assist disabled

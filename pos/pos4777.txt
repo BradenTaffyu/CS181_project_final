@@ -1,0 +1,1 @@
+2017 hi if you want to avoid installing more gamebreaking updates locate appmanifest 377160 game id and open that file in notepad or other editor and find the field stateflags 1510 installdir change 1510 to 4 in the file and save then right click the file and go to properties then select read only and hit apply works for me have a good day

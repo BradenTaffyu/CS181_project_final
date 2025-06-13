@@ -1,0 +1,1 @@
+2019 steam overlay if nothing happens when starting the game try turn off steam overlay in game properties general tab untick enable the steam overlay while in game

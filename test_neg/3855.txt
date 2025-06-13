@@ -1,0 +1,1 @@
+added battleeye without linux support so it s no longer playable on the steam deck

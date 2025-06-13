@@ -1,0 +1,1 @@
+2020 late to the party but this game holds up quite well works flawlessly on linux with proton ge note mouse acceleration is enabled by default and there s no in game option to change it to disable it edit the fallout ini file as explained here

@@ -1,0 +1,1 @@
+2021 game constantly crashes on launch for me stating i need a gpu with enough memory and that supports directx12 my gpu does have enough memory and supports directx12 no clue what s going on attempting a reinstall

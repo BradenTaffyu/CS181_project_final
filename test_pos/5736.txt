@@ -1,0 +1,1 @@
+2019 fix bugs no add useless operators and destroy working mechanics

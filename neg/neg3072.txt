@@ -1,0 +1,1 @@
+nice game idea but it isn t programmed for using multi core architecture this is why this game is so damn slow very low fps

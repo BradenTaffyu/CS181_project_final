@@ -1,0 +1,1 @@
+2022 main menu lagging fixed locate r5apex exe in your local files properties compatibility disable fullscreen optimizations disable these in game settings v sync ambient occlusion volumetric lighting dynamic spot shadows

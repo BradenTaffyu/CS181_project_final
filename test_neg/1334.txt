@@ -1,0 +1,1 @@
+game crashes after clicking alt f4

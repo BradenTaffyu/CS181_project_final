@@ -1,0 +1,1 @@
+story 10 10gameplay 10 10graphic sound 10 10animation 10 10game s world 10 10character 10 10combat 10 10enemy s ai 10 10soundtrack 10 10game optimize 10 10it s wukong 10 10overall 10 10

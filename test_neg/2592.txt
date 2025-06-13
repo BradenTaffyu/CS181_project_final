@@ -1,0 +1,1 @@
+this game is currently vulnerable to a root level anticheat exploit that is being used by hackers in its current state the game is a mayor security hazard unless you have a good virtual machine do not play until it is patched

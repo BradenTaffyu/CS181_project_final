@@ -1,0 +1,1 @@
+there is some serious optimization issue that needs to be resolved for the dlc to be playable wasn t expecting to experience sudden frame drops at low quality 1080p on a 4080 super 7800x3d

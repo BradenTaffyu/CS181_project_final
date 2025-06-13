@@ -1,0 +1,1 @@
+2020 they have seemingly intentionally broken gnu linux support under wine i understand that linux isn t supported but intentionally breaking compatibility with wine earns a negative review from me edit a patch allows this game to work with proton 5 9 ge 6 st

@@ -1,0 +1,1 @@
+a frame rate fluctuating between 40 60 fps on a modern gaming rig is simply unacceptable this game urgently needs optimization

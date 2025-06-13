@@ -1,0 +1,1 @@
+i adjusted my inverted controller y axis and each time i cast a spell it goes back to normal y axis this is terrible and total nonsense

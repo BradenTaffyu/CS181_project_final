@@ -1,0 +1,1 @@
+on linux you are not able to play with people on windows because of the poorly implemented multiplayer that thinks running under wine is an entirely different processor architecture dont waste your money if you intend to play this with friends if you or any of your friends are on linux or steamdeck

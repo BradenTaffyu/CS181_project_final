@@ -1,0 +1,1 @@
+now that vulkan is gone i have no choice but to play with constant stuttering on directx12 or directx11 thanks ubisoft
